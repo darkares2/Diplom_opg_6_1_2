@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{712547F7-93A1-4FB4-A0B1-E43EEF5D36DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Opg6__1__2__ZMQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Opg6_1_2_ZMQ/Program.cs" Line="55" Column="52" />
+      <File FileName="TypeContentRouter/Program.cs" Line="17" Column="22" />
+      <File FileName="TypeClientAggregator/Program.cs" Line="55" Column="45" />
+      <File FileName="TypeProviders/Program.cs" Line="105" Column="1" />
+      <File FileName="Emailer/Program.cs" Line="14" Column="1" />
+      <File FileName="README.md" Line="1" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Opg6_1_2_ZMQ" expanded="True" selected="True">
+            <Node name="Emailer" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Opg6_1_2_ZMQ" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="TypeClientAggregator" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="TypeContentRouter" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TypeProviders" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
